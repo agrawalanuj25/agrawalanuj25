@@ -11,10 +11,10 @@
 
 **Backend Engineer · IIT Bombay '25 · Building distributed systems at Airlinq**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anujagrawal.me-04785d?style=flat-square&logo=safari&logoColor=white)](https://anujagrawal.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anujagrawal018-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujagrawal018/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-agrawalanuj31545-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/agrawalanuj31545/)
-[![Email](https://img.shields.io/badge/Email-agrawalanuj.iitb25@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:agrawalanuj.iitb25@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anujagrawal.me-04785d?style=flat-square)](https://anujagrawal.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anujagrawal018-0a66c2?style=flat-square)](https://www.linkedin.com/in/anujagrawal018/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-agrawalanuj31545-FFA116?style=flat-square)](https://leetcode.com/u/agrawalanuj31545/)
+[![Email](https://img.shields.io/badge/Email-agrawalanuj.iitb25@gmail.com-ea4335?style=flat-square)](mailto:agrawalanuj.iitb25@gmail.com)
 
 </div>
 
@@ -26,10 +26,6 @@ I'm a backend engineer at **Airlinq**, where I work on observability infrastruct
 
 I care about understanding things properly — not just making them work. Most of what I know came from going deeper than the course required.
 
-- 🔭 Currently working on: alert deduplication pipelines and telecom IoT subscriber reconciliation
-- 🌱 Studying: distributed systems, computer networks, and system design
-- 🎯 JEE Advanced top 3 percentile, JEE Main top 1.2 percentile (2021)
-- ✈️ Built an RC plane that won the **Exemplary Design Award** at IIT Bombay's Electronics & Robotics Club (2024)
 - 📝 I write about what I learn at [anujagrawal.me/blog](https://anujagrawal.me/blog)
 
 ---
